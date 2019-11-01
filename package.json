@@ -1,0 +1,23 @@
+{
+  "name": "4236253LF",
+  "title": "Project",
+  "description": "Descr",
+  "author": "Özgün ZENGİN",
+  "homepage": "http://localhost/",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.1",
+    "grunt-serve": "^0.1.6"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-preset-env": "^1.7.0",
+    "grunt-contrib-compass": "^1.1.1"
+  }
+}
